@@ -1,0 +1,40 @@
+_repo: The-Strange-Case-of-Dr.-Jekyll-and-Mr.-Hyde_43
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: Dr. Jekyll is a London doctor who is liked and respected for his work.
+  Mr. Hyde is an evil man, completely unknown in London society. There is a murder
+  and Hyde seems to be responsible, so why does the good doctor give Mr. Hyde the
+  key to his house and decide to leave everything to Mr. Hyde in his will? From p.
+  4 of cover.
+gutenberg_bookshelf:
+- Movie Books
+- Horror
+- Precursors of Science Fiction
+gutenberg_issued: '2008-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Multiple personality -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Self-experimentation in medicine -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Strange Case of Dr. Jekyll and Mr. Hyde
+url: http://www.gutenberg.org/ebooks/43

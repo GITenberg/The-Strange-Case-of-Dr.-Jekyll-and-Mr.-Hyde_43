@@ -1,5 +1,8 @@
 _repo: The-Strange-Case-of-Dr.-Jekyll-and-Mr.-Hyde_43
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -14,6 +17,8 @@ description: Dr. Jekyll is a London doctor who is liked and respected for his wo
   and Hyde seems to be responsible, so why does the good doctor give Mr. Hyde the
   key to his house and decide to leave everything to Mr. Hyde in his will? From p.
   4 of cover.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43#The-Strange-Case-of-Dr.-Jekyll-and-Mr.-Hyde
 gutenberg_bookshelf:
 - Movie Books
 - Horror
